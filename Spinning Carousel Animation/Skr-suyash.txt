@@ -1,5 +1,0 @@
-## Prototype Link ##
-https://www.figma.com/proto/Li416Vl7XIjUVFisQPfC8T/Rotating-Carousel-OpenCode?node-id=3-3&p=f&t=r2lW0EUPYGsOlGr9-1&scaling=contain&content-scaling=fixed&page-id=0%3A1
-
-## Design Link ##
-https://www.figma.com/design/Li416Vl7XIjUVFisQPfC8T/Rotating-Carousel-OpenCode?node-id=0-1&p=f&t=gv0pN2Y130UD2nJb-0
