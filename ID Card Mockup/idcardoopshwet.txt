@@ -1,0 +1,3 @@
+Design Link : "https://www.figma.com/design/ajrFsyEZSv0NhF9LfAtfO1/ID-Card-oopshwet?node-id=0-1&m=dev&t=MU7hJukkx3r14rpW-1"
+
+Prototype Link : "https://www.figma.com/proto/ajrFsyEZSv0NhF9LfAtfO1/ID-Card-oopshwet?node-id=0-1&t=MU7hJukkx3r14rpW-1"
