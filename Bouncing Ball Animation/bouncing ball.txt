@@ -1,3 +1,1 @@
-design : https://www.figma.com/design/HybhaPHN6ub4axdRL5ur67/Untitled?node-id=0-1&t=PBmnb6hAMdl59H5Y-1
-
-prototype : https://www.figma.com/proto/HybhaPHN6ub4axdRL5ur67/Untitled?node-id=0-1&t=PBmnb6hAMdl59H5Y-1
+https://www.figma.com/design/v7qzaB7e1bzbjWmMFXXBEz/Bouncing-Ball?node-id=0-1&t=FAmEwdjdZse80ypM-1
