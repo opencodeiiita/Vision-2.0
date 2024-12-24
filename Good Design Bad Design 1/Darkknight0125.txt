@@ -1,0 +1,27 @@
+https://www.figma.com/design/bpccnjaYugzsNfKAC7khTW/GoodVsBad?node-id=0-1&t=LjSZ6y39SdgAVwHS-1
+
+//Figma link
+
+Q - Why the original UI was bad?
+=> The green color was not pleasing.
+=> In the video section less importance was placed on the actual videos.
+=> Video section text covered way too much space.
+=> The icons were dull.
+=> The game section had start button below, but it should be the first thing to come in sight.
+=> Distinguishing on which tab we are on is difficult on home page.
+
+Q - What changes I made?
+=> Changed the overall theme to darker as it aesthetic.
+=> Fixed the video player by putting videos as the main attraction.
+=> The tabs were made colorfull.
+=> Placed Start in the middle of screen.
+=> Designed the final score card.
+=> Icons added wherever importance felt.
+
+Q - How my changes improved the UI?
+=> The darker theme pleases more than green.
+=> The better video player improved the UX.
+=> Visually can be seen on which tab we are on currently.
+=> Colors on choosing difficulty makes better UI.
+=> The final score card catches more eyes and the game over looks more modern.
+=> Correct and skipped list easy to read.
