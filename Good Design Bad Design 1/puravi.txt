@@ -1,0 +1,8 @@
+https://www.figma.com/design/ocXXApJbQzTpqjd5MpPxHD/Untitled?node-id=0-1&p=f&t=Omp8sH0YZAMPm29a-0
+
+My key observations are:
+1. In screen 1, the videos page shows irrelevant portions in the majore part of the screen and the important parts (videos and categories) are at the bottom, making it difficult for the user to use.
+  My redesigned UI shifts the categories to the top and adds space for the app name as well. The videos are available in a downward scrolling format. The bottom bar has important places that are not frequently required like the profile and know more sections.
+2. The second screen is too cluttered. My screen 2 has simpler categorization of the game settings in a cleaner format.
+3. The third screen has a displeasing orientation of the correct and skipped words. I have rearranged them horizontally in my screen 3, with downward scrolling to view all words.
+I have decided to apply a purple-blue-white colour theme for the app instead of the original green.
