@@ -1,0 +1,22 @@
+https://www.figma.com/design/anXNqjdV3DID3hMHgz1xfu/Untitled?node-id=0-1&t=IFMiX4k10sE4pq8z-1
+
+
+Why is the original design bad?
+1. Dull colour scheme
+2. No organised layout
+3.  No proper description given for users to access various options.
+4. Confusing icons and purpose of various settings not justified.
+
+Changes I have made
+1. Implemented a better colour scheme.
+2. Provided descriptions to videos and options where necessary.
+3. Used bright images corresponding to the colour scheme.
+4. Used valid option names to make it user friendly.
+5. Made a clean interface and avoided clutter.
+
+How my changes make the UI UX better
+1. I added description and provided valid and significant names to options so the user wont get confused.
+2. Use of bright colour scheme gives a rich look resulting in improvement of UX.
+3. Used images where necessary so user would understand exactly what must be done.
+4. Avoided clutter and ensured the written data is visible in order to make it user friendly.
+ 
