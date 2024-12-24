@@ -1,0 +1,18 @@
+https://www.figma.com/design/hQVfuU3BtYQhoMhWkZP8op/Untitled?node-id=0-1&t=QRN2KU7S5Xfb4KQj-1
+
+Changes in First image:
+The option for selecting types of videos was present at the middle of the screen, I placed them at top in my UI design. 
+The colour scheme used in app was dull, I changed it to brighter colour scheme.
+The heading "Teacher's Image" was also present at the middle of the screen which didn't look appealing at all. So, I placed it on top.
+The navigation bar is having too many option. I reduced the number by one, other options can be seen by sliding the navigation bar.
+
+Changes in Second Image:
+The image of the game used was very small, So I used a larger image.
+Also the name the name of the game being played is not shown. I added that too.
+Game settings were in the middle. I shifted them to the bottom.
+Buttons like "How to Play?" and "Exit" have been moved below the start option.
+
+Changes in Third Image:
+I added the game name.
+I also added an emoji "OOPS".
+The font of "Game Over" was small in the image. I increased it's size.
